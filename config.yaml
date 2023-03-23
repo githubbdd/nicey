@@ -8,13 +8,13 @@ inbounds:
   protocol: trojan
   settings:
     clients:
-    - password: "7bc81d3e-3f57-4701-a88d-a329a3f3f67c"
+    - password: "1c85059f-95c4-41d4-b355-e5d240f10d07"
   streamSettings:
     network: ws
     wsSettings:
       path: qwe
   sniffing:
-    enabled: true
+    enabled: false
     destOverride:
     - http
     - tls
